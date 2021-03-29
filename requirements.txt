@@ -52,7 +52,7 @@ pluginlib==1.11.2
 py==1.4.31
 pycrypto==2.6.1
 pycurl==7.43.0
-Pygments==2.1
+Pygments==2.7.4
 pygobject==3.20.0
 pygpgme==0.3
 pyparsing==2.0.3
