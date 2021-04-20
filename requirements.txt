@@ -49,7 +49,7 @@ paramiko==1.16.0
 pbr==3.1.1
 Pillow==3.1.2
 pluginlib==1.11.2
-py==1.4.31
+py==1.10.0
 pycrypto==2.6.1
 pycurl==7.43.0
 Pygments==2.1
