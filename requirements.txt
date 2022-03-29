@@ -45,7 +45,7 @@ netifaces==0.10.4
 nose==1.3.7
 numpy==1.11.0
 oauth==1.0.1
-paramiko==1.16.0
+paramiko==2.10.1
 pbr==3.1.1
 Pillow==3.1.2
 pluginlib==1.11.2
